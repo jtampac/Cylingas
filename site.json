@@ -1,0 +1,89 @@
+{
+  "images": {
+    "hero": "https://cylingas.ae/wp-content/uploads/2019/07/Vopak-Horizon-m.jpg",
+    "tankfarm": "https://cylingas.ae/wp-content/uploads/2019/07/Horizon1.jpg",
+    "epc": "https://cylingas.ae/wp-content/uploads/2019/04/EPC.jpg",
+    "fabrication": "https://cylingas.ae/wp-content/uploads/2022/01/Fabrication-QAFCO.jpg",
+    "engineering1": "https://cylingas.ae/wp-content/uploads/2019/07/Eng1-1024x576.jpg",
+    "engineering2": "https://cylingas.ae/wp-content/uploads/2019/07/Eng2-1024x544.jpg",
+    "om": "https://cylingas.ae/wp-content/uploads/2019/04/OMr-1024x576.jpg",
+    "spheres": "https://cylingas.ae/wp-content/uploads/2019/07/DUGAS-Project9.jpg",
+    "vessel": "https://cylingas.ae/wp-content/uploads/2019/07/Converter-e1563905939251.jpg"
+  },
+  "stats": [
+    {"num": "50", "unit": "+", "label": "Years of Operation"},
+    {"num": "300", "unit": "K SQ FT", "label": "Fabrication Facility"},
+    {"num": "70", "unit": "MM", "label": "Plate Rolling Capacity"},
+    {"num": "100", "unit": "M \u00d8", "label": "Storage Tank Diameter"}
+  ],
+  "capabilities": [
+    {"icon": "tank", "title": "Storage Tanks", "desc": "API 650 / 620 vertical storage tanks, spheres and bullets up to 100 m diameter &mdash; engineered, fabricated and erected for bulk liquid and pressurised storage."},
+    {"icon": "vessel", "title": "Pressure Vessels", "desc": "ASME 'U' and 'U2' stamped pressure vessels, columns, reactors, KO drums and heat exchangers &mdash; including heavy-wall and cryogenic service."},
+    {"icon": "tank", "title": "EPC Projects", "desc": "Turnkey engineering, procurement and construction of storage terminals, process facilities and distribution infrastructure &mdash; foundation to commissioning."},
+    {"icon": "ruler", "title": "Engineering & Design", "desc": "In-house multidiscipline design across mechanical, piping, civil, structural and E&amp;I &mdash; built on PV Elite, CAESAR II, STAAD and AME Tank."},
+    {"icon": "weld", "title": "Shop Fabrication", "desc": "Heavy fabrication in a 300,000 sq ft Dubai works &mdash; plate rolling to 70 mm, CNC cutting and drilling, and certified welding across SMAW, FCAW, TIG and SAW."},
+    {"icon": "gear", "title": "Operations & Maintenance", "desc": "Shutdown, refurbishment and integrity works for static equipment, piping and tankage across brownfield Oil &amp; Gas and utility sites."}
+  ],
+  "industries": [
+    {"icon": "oil", "title": "Oil & Gas", "desc": "Upstream, midstream &amp; downstream"},
+    {"icon": "fuel", "title": "Energy & Power", "desc": "Generation, EfW &amp; thermal storage"},
+    {"icon": "vessel", "title": "Petrochemicals", "desc": "Refining &amp; process plants"},
+    {"icon": "pipe", "title": "Utilities & Water", "desc": "Transmission &amp; distribution"},
+    {"icon": "build", "title": "Infrastructure", "desc": "Terminals, airports &amp; cooling"},
+    {"icon": "globe", "title": "Marine & Aviation", "desc": "Berth, loading &amp; jet-fuel"}
+  ],
+  "facility_specs": [
+    {"num": "300", "unit": "K SQ FT", "label": "Fabrication Facility", "desc": "Covered and open fabrication yards in Dubai Investment Park."},
+    {"num": "70", "unit": "MM", "label": "Plate Rolling", "desc": "Hydraulic plate rolling for heavy-wall shells."},
+    {"num": "3600", "unit": "MM", "label": "CNC Cutting Gauge", "desc": "CNC plasma and oxy-fuel profile cutting."},
+    {"num": "100", "unit": "MM", "label": "CNC Drilling", "desc": "CNC drilling for nozzles and structural work."}
+  ],
+  "equipment": [
+    ["Hydraulic plate rolling", "up to 70 mm"],
+    ["CNC plasma / oxy-fuel cutting", "3600 mm rail gauge"],
+    ["CNC drilling", "up to 100 mm"],
+    ["Welding processes", "SMAW / FCAW / TIG / SAW"],
+    ["Stress relieving", "On-site PWHT"],
+    ["Surface protection", "NACE / BGAS painting"],
+    ["Lifting & handling", "Heavy EOT cranes"],
+    ["NDT & inspection", "RT / UT / MPI / PT"]
+  ],
+  "codes": ["ASME Sec. VIII Div. 1", "ASME Sec. VIII Div. 2", "ASME B31.3", "ASME B31.4", "ASME B31.8", "API 650", "API 620", "API 653", "API 2000", "PD 5500", "AWWA D100"],
+  "software": ["PV Elite", "CAESAR II", "STAAD.Pro", "AME Tank 7.5", "CAD Worx", "Nozzle Pro"],
+  "certs": [
+    {"stamp": "ASME U", "title": "ASME 'U' Stamp", "desc": "Authorised to design and fabricate pressure vessels to ASME Section VIII Division 1."},
+    {"stamp": "ASME U2", "title": "ASME 'U2' Stamp", "desc": "Authorised for pressure vessels to ASME Section VIII Division 2 (alternative rules)."},
+    {"stamp": "NBBI R", "title": "NBBI 'R' Stamp", "desc": "National Board authorisation for the repair and alteration of pressure-retaining items."},
+    {"stamp": "ISO 9001", "title": "Quality Management", "desc": "ISO 9001 certified quality management system across engineering and fabrication."},
+    {"stamp": "ISO 14001", "title": "Environmental", "desc": "ISO 14001 certified environmental management system."},
+    {"stamp": "ISO 45001", "title": "Occupational H&S", "desc": "ISO 45001 certified occupational health and safety management system."}
+  ],
+  "timeline": [
+    {"year": "2024", "text": "Awarded EPC for Aviation Fuel Storage by ADNOC, and supply of spheres for the NMDC / T\u00e9cnicas Reunidas ADNOC MERAM project."},
+    {"year": "2022", "text": "Awarded EPC project for cryogenic ethylene storage tanks."},
+    {"year": "2021", "text": "Awarded EPC storage tanks at the ADNOC BFIP project (via CPECC)."},
+    {"year": "2020", "text": "Awarded storage tank projects at ADNOC Dabbayia."},
+    {"year": "2019", "text": "Prequalified with ADNOC as an EPC / Fabrication contractor."},
+    {"year": "2018", "text": "Acquired by private investors with a focus on medium-to-large EPC contracts."},
+    {"year": "2013", "text": "Opened the wider GCC export market."},
+    {"year": "2010", "text": "EPC division established with a focus on storage facility projects."},
+    {"year": "1980", "text": "On-site construction of API 650 tanks and AWWA D100 water tanks."},
+    {"year": "1976", "text": "Production startup &mdash; manufacture of gas cylinders and pressure vessels."},
+    {"year": "1974", "text": "Company inception by decree of H.H. Sheikh Rashid Bin Saeed Al Maktoum."}
+  ],
+  "offices": [
+    {"name": "Dubai (Head Office)", "lines": ["Dubai Investment Park, Dubai, U.A.E."], "tel": "+971 4 347 2648", "fax": "+971 4 393 3862"},
+    {"name": "Abu Dhabi", "lines": ["Abu Dhabi, U.A.E."], "tel": "+971 2 550 2648", "fax": "+971 2 550 2642"},
+    {"name": "Fujairah", "lines": ["Fujairah, U.A.E."], "tel": "+971 4 347 2648", "fax": "+971 4 393 3862"}
+  ],
+  "clients": [
+    "https://cylingas.ae/wp-content/uploads/2024/10/adnoc.jpg",
+    "https://cylingas.ae/wp-content/uploads/2024/10/nmdc.jpg",
+    "https://cylingas.ae/wp-content/uploads/2024/10/Technicas.jpg",
+    "https://cylingas.ae/wp-content/uploads/2024/10/Tecnimont.jpg",
+    "https://cylingas.ae/wp-content/uploads/2019/07/Client16.jpg",
+    "https://cylingas.ae/wp-content/uploads/2019/07/Client15.jpg",
+    "https://cylingas.ae/wp-content/uploads/2019/07/Client13.jpg",
+    "https://cylingas.ae/wp-content/uploads/2019/07/Client12.jpg"
+  ]
+}
